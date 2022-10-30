@@ -1,3 +1,3 @@
 # Take-Whole-Input-Stream-First
 
-Take whole input first and then decide the process
+Take whole input first and THEN decide the process
